@@ -13,3 +13,12 @@
  - <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css-logo">
 <br>
 <br>
+<img src = "https://github.com/lucasoliveiraDEV22/Projeto-2/blob/master/assets/shopping-desktop.JPG" alt = "desktop-logo">
+<img src = "https://github.com/lucasoliveiraDEV22/Projeto-2/blob/master/assets/Shopping-mobile.JPG?raw=true" alt = "mobile-logo">
+  <br>
+  
+  [![Lucas Stats](https://github-readme-stats.vercel.app/api?username=lucasoliveiraDEV22)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveiraDEV22)](https://github.com/anuraghazra/github-readme-stats)
+
